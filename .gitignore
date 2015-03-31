@@ -1,0 +1,13 @@
+*.class
+*.idea/
+test-classes
+*.gwt
+*.iml
+target/
+test-output/
+bin/
+core/src/main/java/META-INF/
+out/
+.classpath
+.project
+.settings/
